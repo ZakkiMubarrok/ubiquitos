@@ -41,4 +41,10 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 |Sistem|Sebagai administrator sistem lalu lintas saya ingin bisa melihat data historis pelanggaran lalu lintas yang melebihi zebra cross pada saat lampu merah, sehingga saya dapat menganalisis tren pelanggaran|mengambil tindakan preventif, dan meningkatkan keselamatan di persimpangan jalan.|⭐⭐⭐|
 
 # 📚Metode dan Algoritma
+- Sensor
+  - Face recognition : 
+- Kamera : CCTV
+- SDLC (Software Development Life Cycle) :
+  - Waterfall
 
+  
