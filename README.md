@@ -1,6 +1,10 @@
 # 📖Intro
 
-Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Monitoring Rambu Lalu Lintas"
+Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Solusi Cerdas untuk Mendeteksi Pelanggaran Lalu Lintas Otomatis pada Lampu Merah di Zebra Cross"
+
+
+
+
 
 # 💡Latar Belakang
 
