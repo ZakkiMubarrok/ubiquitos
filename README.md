@@ -54,7 +54,8 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
   - Website
  
 # 🏗Arsitektur Sistem
-![ubiquites drawio](https://github.com/ZakkiMubarrok/ubiquitos/assets/113114382/d8e28bc0-435d-4e8f-b358-11a5d6703459)
+![arsitektur sistem drawio](https://github.com/ZakkiMubarrok/ubiquitos/assets/113114382/fb24ab4f-c32a-44c1-92c2-a12a362d2772)
+
 
 
   
