@@ -46,9 +46,15 @@ Berikut adalah beberapa user story yang menggambarkan kebutuhan utama dari pengg
 
 # 📚Metode dan Algoritma
 - Sensor
-  - Face recognition : 
+  - Computer Vision
 - Kamera : CCTV
 - SDLC (Software Development Life Cycle) :
   - Waterfall
+- Responder
+  - Website
+ 
+# 🏗Arsitektur Sistem
+![ubiquites drawio](https://github.com/ZakkiMubarrok/ubiquitos/assets/113114382/d8e28bc0-435d-4e8f-b358-11a5d6703459)
+
 
   
